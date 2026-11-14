@@ -1,3 +1,7 @@
+# This repo is ACTIVELY updated by Synth.
+This repo was also forked by Synth from the GitHub repo Web Dashers.
+---
+Original description:
 
 > [!NOTE]
 > This project is still in development, and is not yet complete. Please be patient with us as we work on it, and please report any bugs you find to the Discord server (specifically on the #`bug-report` forum) or the Issues page on this repository. Thank you for your support!
