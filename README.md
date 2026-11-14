@@ -1,5 +1,6 @@
 # This repo is ACTIVELY updated by Synth.
 - This repo was also forked by Synth from the GitHub repo Web Dashers.
+- This repo is used for the project/website Synth Arcade.
 ---
 Original description:
 
